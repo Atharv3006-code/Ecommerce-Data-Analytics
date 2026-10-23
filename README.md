@@ -32,3 +32,8 @@ An interactive Power BI dashboard presents KPI cards, monthly sales trends, prod
 
 ## Project Note
 This project uses sample learning data. Recorded sales totals include rows marked as cancelled; therefore, they should not be interpreted as realized revenue without further validation.
+
+
+## Power BI Dashboard
+
+![E-Commerce Sales Analytics Dashboard](powerbi_dashboard.png)
